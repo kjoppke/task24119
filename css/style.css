@@ -1,0 +1,15 @@
+.kwadraty {
+    background-color: #808080;
+    color: white;
+    padding: 15px;
+}
+
+
+div {
+    width: 100px;
+    height: 100px; 
+    background-color: #fea500;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
